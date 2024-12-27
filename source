@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curiculam vitae</title>
+</head>
+<style></style>
+<body>
+    <center>
+        <div align="left">
+            <h1 >-------------------------------------</h1>
+            <h1 align="left"> &nbsp;
+                &nbsp;&nbsp;&nbsp;Likith R Devanga</h1>
+            
+            
+            <font color="green" align="">&nbsp;&nbsp;&nbsp;&nbsp;Junior Front-End Developer</font>
+            <br>
+            <br>
+            <font >&nbsp;&nbsp;&nbsp;&nbsp;My main road <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;My Street,454545 <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;123-333-2344 <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;Bangalore
+        </font>
+        <br>
+        <br>
+        <font color="green">&nbsp;&nbsp;&nbsp;&nbsp;Skills</font>
+        <br>
+    <br>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;HTML,CSS,JS,React,CPP,Python,DBMS</font>
+    <br>
+    <br>
+    <font color="green">&nbsp;&nbsp;&nbsp;&nbsp;Education</font>
+    <br><br>
+    <font color="blue">&nbsp;&nbsp;&nbsp;&nbsp;My School, Chikmaglur</font>
+    <br>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;Month this to month That</font>
+    <br>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;My Exciting list</font>
+    <br>
+    <br>
+    <font color="green">&nbsp;&nbsp;&nbsp;&nbsp;Experience</font><br><br>
+    <font color="blue">&nbsp;&nbsp;&nbsp;&nbsp;My Company-Senior,Bangalore Devoloper</font>
+    <br>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;month this to month That</font>
+    <ul>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Achivement 1</li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Achivement 2</li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Achivement 3</li>
+    </ul>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;Skills: team work,Leadership</font>
+    <br>
+    <br>
+    <font color="blue">&nbsp;&nbsp;&nbsp;&nbsp;My Company-Senior,Bangalore Devoloper</font>
+    <br>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;month this to month That</font>
+    <ul>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Achivement 1</li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Achivement 2</li>
+        <li>&nbsp;&nbsp;&nbsp;&nbsp;Achivement 3</li>
+    </ul>
+    <font>&nbsp;&nbsp;&nbsp;&nbsp;Skills: team work,Leadership</font>
+    <br>
+    <br>
+    <font color="green">&nbsp;&nbsp;&nbsp;&nbsp;Across the internet
+        <br>
+        <a href="https://github.com/Stealth-here">&nbsp;&nbsp;&nbsp;&nbsp;Github</a>
+        <br>
+        <a href="https://www.linkedin.com/in/likith-r-devanga-814146266/">&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn</a>
+    </font>
+</div>
+</center>
+
+</body>
+</html>
